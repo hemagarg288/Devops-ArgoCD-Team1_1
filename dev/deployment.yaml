@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: hemagarg288/team1:flask-mongo-app  # Replace with your Docker Hub username and image
+          image: hemagarg288/team1:flask-mongo-appnew  # Replace with your Docker Hub username and image
           ports:
             - containerPort: 5000
           env:
