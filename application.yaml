@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/hemagarg288/Devops-ArgoCD-Team1.git
+    repoURL: https://github.com/hemagarg288/Devops-ArgoCD-Team1_1.git
     targetRevision: HEAD
     path: dev
   destination: 
